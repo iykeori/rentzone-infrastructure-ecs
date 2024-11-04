@@ -36,3 +36,7 @@ variable "env_file_name" {}
 variable "architecture" {}
 variable "container_image" {}
 
+#route-53 variables
+variable "record_name" {}
+
+
